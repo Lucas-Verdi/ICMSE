@@ -85,6 +85,8 @@ class Th(Thread):
         numeronota.clear()
         ipinota.clear()
         dataemi.clear()
+        razaosocial.clear()
+        valornota.clear()
 
 
 #INTERFACE
